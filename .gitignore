@@ -1,0 +1,25 @@
+# Log file
+logs/
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target/
+/.project
+
+# python
+*.pyc
+compiled_krb
+venv/
+*.jpg
+*.h5
+venv/
+*.csv
+runs/
+Digraph.gv.pdf
+Digraph.gv
+sftp-config.json
+logs/
